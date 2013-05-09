@@ -43,5 +43,8 @@ gem 'jquery-rails'
 # Use passenger as the app server
 gem 'passenger'
 
+# Display maintainance mode
+gem 'turnout'
+
 # To use debugger
 gem 'debugger'
