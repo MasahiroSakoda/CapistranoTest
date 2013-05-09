@@ -40,5 +40,8 @@ gem 'jquery-rails'
 # Use unicorn as the app server
 # gem 'unicorn'
 
+# Use passenger as the app server
+gem 'passenger'
+
 # To use debugger
 gem 'debugger'
